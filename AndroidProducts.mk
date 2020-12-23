@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/gzosp_crosshatch.mk \
-    $(LOCAL_DIR)/gzosp_blueline.mk
+    $(LOCAL_DIR)/lineage_crosshatch.mk \
+    $(LOCAL_DIR)/lineage_blueline.mk
 
 COMMON_LUNCH_CHOICES := \
-    gzosp_crosshatch-userdebug \
-    gzosp_blueline-userdebug
+    lineage_crosshatch-userdebug \
+    lineage_blueline-userdebug
